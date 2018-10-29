@@ -1,0 +1,60 @@
+[{
+    "name": "Zombotutor",
+    "description": "Getting in course for Zombular framework",
+    "image": "/assets/projects/images/zombotutor.png",
+    "links": [
+        ["site", "https://blackmius.ru/zombotutor"]
+    ]
+}, {
+    "name": "SS13",
+    "description": "Landing page design and develop",
+    "image": "/assets/projects/images/ss13.png",
+    "links": [
+        ["site", "https://ss13.ru/"],
+        ["sources", "https://github.com/Redict/ss13ru_js"]
+    ]
+}, {
+    "name": "Portfolio 2017",
+    "description": "Landing page",
+    "image": "/assets/projects/images/blackmius2017.png",
+    "links": [
+        ["sources", "https://bitbucket.org/blakmius/portfolio"]
+    ]
+}, {
+    "name": "QFix pro",
+    "description": "Landing page design and develop",
+    "image": "/assets/projects/images/qfix.png",
+    "links": [
+        ["site", "http://qfix.pro/"],
+        ["sources", "https://github.com/blackmius/qfix"]
+    ]
+}, {
+    "name": "Spbkuznec",
+    "description": "Catalog pages design and develop",
+    "image": "/assets/projects/images/spbkuznec.png",
+    "links": [
+        ["site", "http://spbkuznec.ru/catalog/#fences"],
+        ["sources", "https://github.com/blackmius/spbkuznec"]
+    ]
+}, {
+    "name": "ASK Sochi",
+    "description": "Landing page",
+    "image": "/assets/projects/images/asksochi.png",
+    "links": [
+        ["sources", "https://github.com/blackmius/asksochi"]
+    ]
+}, {
+    "name": "Sochi IT School",
+    "description": "Landing page",
+    "image": "/assets/projects/images/sochiitschool.png",
+    "links": [
+        ["sources", "https://bitbucket.org/blakmius/sochiitschool"]
+    ]
+}, {
+    "name": "ScratchCTF",
+    "description": "CTF competition platform",
+    "image": "/assets/projects/images/scratchctf.png",
+    "links": [
+        ["sources", "https://bitbucket.org/redictgames/scratchctfregistration"]
+    ]
+}]

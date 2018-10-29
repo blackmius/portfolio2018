@@ -1,0 +1,1 @@
+rollup -w -i app.js -o build/app.js -m build/app.js.map -f iife
