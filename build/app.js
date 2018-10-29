@@ -2449,8 +2449,8 @@
 
     const Style = z$2._style(`
 @import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif:400,700');
-@import url("assets/icomoon/style.css");
-@import url("lib/normalize.css");
+@import url("/assets/icomoon/style.css");
+@import url("/lib/normalize.css");
 
 * { box-sizing: border-box; }
 html { font: 400 10px/15px 'PT Sans', sans-serif; }
